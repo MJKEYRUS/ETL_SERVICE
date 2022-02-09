@@ -135,6 +135,11 @@
     "version" : "5.1.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.designer.core.utils.FillTRunJobReferenceParametersMigrationTask",
+    "breaks" : "7.1.0",
+    "version" : "7.1.1",
+    "status" : "ok"
+  }, {
     "id" : "org.talend.designer.dbmap.migration.DBMapSplitTableConstraintFiltersMigrationTask",
     "breaks" : "5.1.2",
     "version" : "5.6.0",
@@ -1535,6 +1540,11 @@
     "version" : "6.1.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.SAPBAPIParameterTypeMigrationTask",
+    "breaks" : "7.1.0",
+    "version" : "7.1.1",
+    "status" : "ok"
+  }, {
     "id" : "org.talend.repository.model.migration.SalesforceMultiSchemaMigrationTask",
     "breaks" : "5.1.1",
     "version" : "5.1.2",
@@ -1792,6 +1802,11 @@
     "breaks" : "5.1.1",
     "version" : "5.1.2",
     "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.model.migration.changeDBVersionForMapROJAIOutputMigrationTask",
+    "breaks" : "7.0.0",
+    "version" : "7.0.1",
+    "status" : "ok"
   }, {
     "id" : "org.talend.repository.model.migration.changeReturnTypeOfServerAliveResult",
     "breaks" : "5.1.1",
